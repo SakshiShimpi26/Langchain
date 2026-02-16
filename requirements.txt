@@ -4,3 +4,7 @@ python-dotenv
 streamlit
 pydantic
 langchain-groq
+langchain-community 
+langchain-core
+pypdf
+bs4
