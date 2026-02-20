@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=900&lines=Production-Grade+LangChain+System+Architecture;LLM+Pipelines+%7C+RAG+%7C+Vector+Search+%7C+Tool+Execution;Modular+Design+of+Composable+LLM+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=900&lines=LangChain+System+Architecture;LLM+Pipelines+%7C+RAG+%7C+Vector+Search+%7C+Tool+Execution;Modular+Design+of+Composable+LLM+Infrastructure" />
 </p>
 
 <p align="center">
