@@ -281,7 +281,7 @@ PINECONE_API_KEY=
 ---
 
 # 👩‍💻 Author
+**Sakshi Shimpi**  
+AI/ML Engineer  
 
-Built to demonstrate deep understanding of modern LLM application architecture and scalable AI system design.
-
----
+Focused on structured, controllable, production-grade LLM systems.
